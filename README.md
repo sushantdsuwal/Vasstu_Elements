@@ -39,6 +39,19 @@ Here are the scripts:
 
 `react-native run-android` - run the native react android app in android Simulator
 
+## Components included:
+- Avatar
+- Button
+- Container
+- Icon
+- ImageGradient
+- TouchableView
+- FormInput
+- Divider
+- Card
+- List
+- Toolbar
+- Text
 
 ## To do 📋
 
